@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8yKc7ajHBKVtvT6Ay03Z5vxIrwUBTBU2RYMlLolhrPYMd3dWn+MrxU3X8tK6Af7UJUsfNpNMDXWRMpIr6HA4qQ==",
+  "dgSpecHash": "iHWHUfL7nUFmJYvosKqO6CfAv0ave9j4Bsz9bEq6ZI1yzX8kH2t7oX/vWlrvXKF/amgwYjl1kcNgiXEpD7P7sw==",
   "success": true,
   "projectFilePath": "C:\\Users\\WINDOWS 11\\source\\repos\\ClienteTransito\\ClienteTransito\\ClienteTransito.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\WINDOWS 11\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\WINDOWS 11\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\WINDOWS 11\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
