@@ -1,0 +1,16 @@
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\bin\Debug\net8.0-windows\ClienteTransito.exe
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\bin\Debug\net8.0-windows\ClienteTransito.deps.json
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\bin\Debug\net8.0-windows\ClienteTransito.runtimeconfig.json
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\bin\Debug\net8.0-windows\ClienteTransito.dll
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\bin\Debug\net8.0-windows\ClienteTransito.pdb
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.Form1.resources
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.csproj.GenerateResource.cache
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.AssemblyInfo.cs
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.dll
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\refint\ClienteTransito.dll
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.pdb
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.genruntimeconfig.cache
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ref\ClienteTransito.dll
