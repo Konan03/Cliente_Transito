@@ -14,3 +14,7 @@ C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.
 C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.pdb
 C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.genruntimeconfig.cache
 C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ref\ClienteTransito.dll
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteTransito.sourcelink.json
+C:\Users\WINDOWS 11\source\repos\ClienteTransito\ClienteTransito\obj\Debug\net8.0-windows\ClienteT.89C3DC98.Up2Date
